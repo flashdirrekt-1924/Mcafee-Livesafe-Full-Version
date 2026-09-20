@@ -242,4 +242,4 @@ This repository serves as the official landing page for McAfee LiveSafe. The sof
 **Get the most recent version of McAfee LiveSafe today!**
 
 ---
-**Last updated:** 2026-09-20 20:06:56 UTC
+**Last updated:** 2026-09-20 22:51:41 UTC
